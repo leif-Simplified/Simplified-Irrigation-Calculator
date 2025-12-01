@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Botanical AI - Original Irrigation Guide",
+  "description": "An intelligent irrigation calculator that generates personalized watering schedules for turf and plant zones based on nozzle type, pressure, and environment.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
